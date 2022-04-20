@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Péricles de Andrade 😁
+## Bem-vindo(a) ao meu perfil! Eu sou o Péricles de Andrade 😁
 
  <div>
   <a href="https://github.com/PericlesAndrade">
